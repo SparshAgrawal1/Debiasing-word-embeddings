@@ -1,0 +1,1 @@
+Download the word embeddings from the links given in respective folders and copy that files into their respective folders. Rename the embedding name and location in the code depending upon on which embeddings you want to use.
