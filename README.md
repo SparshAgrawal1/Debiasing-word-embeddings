@@ -8,4 +8,4 @@ Word Embeddings are one of the most popular representationof document vocabulary
 In this project we proposed a methodology to debias the word embeddings from bias(Gender) present
 
 ### In order to run the script
-Download the word embeddings from the links given in respective folders and copy that files into their respective folders. Rename the embedding name and location in the code depending upon on which embeddings you want to use.
+Download the word embeddings from the links given in respective folders and copy that files into their respective folders. Rename the embedding name and location in the code depending upon which embeddings you want to use.
